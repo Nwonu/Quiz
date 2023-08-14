@@ -197,5 +197,5 @@ int main() {
     printf("Welcome To the quiz, %s!\n", name); 
     startQuiz(); // Call the function to handle the quiz
 
-    return 0;
+    return 0; 
 }
